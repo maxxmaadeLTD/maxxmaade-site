@@ -205,7 +205,7 @@ export default function Home() {
 
       {/* full image, revealed on hover */}
       <Image
-        src="/about/maxx-portrait.png" // make sure this matches your actual filename
+        src="/about/maxx-portrait.PNG" // make sure this matches your actual filename
         alt="Maxx in the studio"
         fill
         className="object-cover opacity-0 transition-opacity duration-500 group-hover:opacity-60"
