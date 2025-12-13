@@ -43,7 +43,24 @@ const artworks: Artwork[] = [
     alt: "fragmented portrait exploring clarity and distortion.",
     mediumKey: "spray",
   },
+  {
+    title: "harrow",
+    medium: "mixed media",
+    year: "2025",
+    image: "/art/harrow.png",
+    alt: "a striking image of the viewers discretion.  surreal mixed media artwork depicting true strength.",
+    mediumKey: "mixed",
+  },
+  {
+    title: "a lesson in manifestation",
+    medium: "mixed media",
+    year: "2025",
+    image: "/art/manifest.png",
+    alt:"cosmic scenery sets this original piece off featuring deep to light value blues to create a sense of calm",
+    mediumKey: "mixed",
+  },
 ];
+
 
 const filters: { id: FilterId; label: string }[] = [
   { id: "all", label: "all work" },
